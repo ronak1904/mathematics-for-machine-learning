@@ -1,0 +1,6 @@
+Equation of Straight Line from 2 Points
+The equation of a straight line is written using the y = mx + b, where m is the slope (Gradient) and b is y-intercept (where the line crosses the Y axis).
+Once we get the equation of a straight line from 2 points in space in y = mx + b format, we can use the same equation to predict the points at different values of x which result in a straight line.
+In this formula, m is the slope and b is y-intercept.
+Linear regression is a way to predict the 'Y' values for unknown values of Input 'X' like 1.5, 0.4, 3.6, 5.7 and even for -1, -5, 10 etc.
+Let’s take a real world example to demonstrate the usage of linear regression and usage of Least Square Method to reduce the errors
